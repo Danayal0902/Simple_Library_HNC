@@ -1,0 +1,75 @@
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\bin\Debug\SimpleLibrary.exe
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\bin\Debug\SimpleLibrary.pdb
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\obj\Debug\SimpleLibrary.FrmLibrary.resources
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\obj\Debug\SimpleLibrary.Properties.Resources.resources
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\obj\Debug\SimpleLibrary.csproj.GenerateResource.Cache
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\obj\Debug\SimpleLibrary.exe
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\obj\Debug\SimpleLibrary.pdb
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\obj\Debug\SimpleLibrary.BorrowDialog.resources
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\obj\Debug\SimpleLibrary.ReturnDialog.resources
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary - Copy\SimpleLibrary\obj\Debug\SimpleLibrary.exe
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary - Copy\SimpleLibrary\obj\Debug\SimpleLibrary.pdb
+C:\Users\pete\Documents\Visual Studio 2008\Projects\oo assess\SimpleLibrary - starter\SimpleLibrary - starter\SimpleLibrary\bin\Debug\SimpleLibrary.exe
+C:\Users\pete\Documents\Visual Studio 2008\Projects\oo assess\SimpleLibrary - starter\SimpleLibrary - starter\SimpleLibrary\bin\Debug\SimpleLibrary.pdb
+C:\Users\pete\Documents\Visual Studio 2008\Projects\oo assess\SimpleLibrary - starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pete\Documents\Visual Studio 2008\Projects\oo assess\SimpleLibrary - starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.BorrowDialog.resources
+C:\Users\pete\Documents\Visual Studio 2008\Projects\oo assess\SimpleLibrary - starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.FrmLibrary.resources
+C:\Users\pete\Documents\Visual Studio 2008\Projects\oo assess\SimpleLibrary - starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.Properties.Resources.resources
+C:\Users\pete\Documents\Visual Studio 2008\Projects\oo assess\SimpleLibrary - starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.ReturnDialog.resources
+C:\Users\pete\Documents\Visual Studio 2008\Projects\oo assess\SimpleLibrary - starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.csproj.GenerateResource.Cache
+C:\Users\pete\Documents\Visual Studio 2008\Projects\oo assess\SimpleLibrary - starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.exe
+C:\Users\pete\Documents\Visual Studio 2008\Projects\oo assess\SimpleLibrary - starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.pdb
+\\mcl_sthome2\sthome2\PAinsworth\My Documents\Visual Studio 2010\Projects\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.exe
+\\mcl_sthome2\sthome2\PAinsworth\My Documents\Visual Studio 2010\Projects\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.pdb
+\\mcl_sthome2\sthome2\PAinsworth\My Documents\Visual Studio 2010\Projects\SimpleLibrary - starter\SimpleLibrary\bin\Debug\SimpleLibrary.exe
+\\mcl_sthome2\sthome2\PAinsworth\My Documents\Visual Studio 2010\Projects\SimpleLibrary - starter\SimpleLibrary\bin\Debug\SimpleLibrary.pdb
+\\mcl_sthome2\sthome2\PAinsworth\My Documents\Visual Studio 2010\Projects\SimpleLibrary - starter\SimpleLibrary\obj\Debug\ResolveAssemblyReference.cache
+\\mcl_sthome2\sthome2\PAinsworth\My Documents\Visual Studio 2010\Projects\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.BorrowDialog.resources
+\\mcl_sthome2\sthome2\PAinsworth\My Documents\Visual Studio 2010\Projects\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.FrmLibrary.resources
+\\mcl_sthome2\sthome2\PAinsworth\My Documents\Visual Studio 2010\Projects\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.Properties.Resources.resources
+\\mcl_sthome2\sthome2\PAinsworth\My Documents\Visual Studio 2010\Projects\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.ReturnDialog.resources
+\\mcl_sthome2\sthome2\PAinsworth\My Documents\Visual Studio 2010\Projects\SimpleLibrary - starter\SimpleLibrary\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\mcl_sthome2\sthome2\PAinsworth\My Documents\Visual Studio 2010\Projects\SimpleLibrary - starter\SimpleLibrary\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.exe
+F:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.pdb
+F:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.csprojResolveAssemblyReference.cache
+F:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.BorrowDialog.resources
+F:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.FrmLibrary.resources
+F:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.Properties.Resources.resources
+F:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.ReturnDialog.resources
+F:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.csproj.GenerateResource.Cache
+F:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\bin\Debug\SimpleLibrary.exe
+F:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\bin\Debug\SimpleLibrary.pdb
+G:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.exe
+G:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.pdb
+G:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\bin\Debug\SimpleLibrary.exe
+G:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\bin\Debug\SimpleLibrary.pdb
+G:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.csprojResolveAssemblyReference.cache
+G:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.BorrowDialog.resources
+G:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.FrmLibrary.resources
+G:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.Properties.Resources.resources
+G:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.ReturnDialog.resources
+G:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.csproj.GenerateResource.Cache
+E:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.exe
+E:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.pdb
+E:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\bin\Debug\SimpleLibrary.exe
+E:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\bin\Debug\SimpleLibrary.pdb
+E:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.csprojResolveAssemblyReference.cache
+E:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.BorrowDialog.resources
+E:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.FrmLibrary.resources
+E:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.Properties.Resources.resources
+E:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.ReturnDialog.resources
+E:\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.csproj.GenerateResource.Cache
+\\mcl_cit\CIT\HNCCOMP\1110494\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.exe
+\\mcl_cit\CIT\HNCCOMP\1110494\OOP Assessment\SimpleLibrary_-_starter\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.pdb
+E:\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.exe
+E:\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.pdb
+E:\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.csprojResolveAssemblyReference.cache
+E:\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.BorrowDialog.resources
+E:\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.FrmLibrary.resources
+E:\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.Properties.Resources.resources
+E:\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.ReturnDialog.resources
+E:\SimpleLibrary - starter\SimpleLibrary\obj\Debug\SimpleLibrary.csproj.GenerateResource.Cache
+E:\SimpleLibrary - starter\SimpleLibrary\bin\Debug\SimpleLibrary.exe
+E:\SimpleLibrary - starter\SimpleLibrary\bin\Debug\SimpleLibrary.pdb

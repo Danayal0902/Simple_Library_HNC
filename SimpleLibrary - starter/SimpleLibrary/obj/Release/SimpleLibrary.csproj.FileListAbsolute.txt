@@ -1,0 +1,20 @@
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\bin\Release\SimpleLibrary.exe
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\bin\Release\SimpleLibrary.pdb
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\obj\Release\SimpleLibrary.FrmLibrary.resources
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\obj\Release\SimpleLibrary.Properties.Resources.resources
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\obj\Release\SimpleLibrary.csproj.GenerateResource.Cache
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\obj\Release\SimpleLibrary.exe
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary\SimpleLibrary\obj\Release\SimpleLibrary.pdb
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary - Copy\SimpleLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary - Copy\SimpleLibrary\obj\Release\SimpleLibrary.BorrowDialog.resources
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary - Copy\SimpleLibrary\obj\Release\SimpleLibrary.FrmLibrary.resources
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary - Copy\SimpleLibrary\obj\Release\SimpleLibrary.Properties.Resources.resources
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary - Copy\SimpleLibrary\obj\Release\SimpleLibrary.ReturnDialog.resources
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary - Copy\SimpleLibrary\obj\Release\SimpleLibrary.csproj.GenerateResource.Cache
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary - Copy\SimpleLibrary\obj\Release\SimpleLibrary.exe
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary - Copy\SimpleLibrary\bin\Release\SimpleLibrary.exe
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary - Copy\SimpleLibrary\bin\Release\SimpleLibrary.pdb
+C:\Users\pete\Documents\Visual Studio 2008\Projects\SimpleLibrary - Copy\SimpleLibrary\obj\Release\SimpleLibrary.pdb
+C:\Users\pete\Documents\Visual Studio 2008\Projects\oo assess\SimpleLibrary - starter\SimpleLibrary - starter\SimpleLibrary\obj\Release\SimpleLibrary.exe
+C:\Users\pete\Documents\Visual Studio 2008\Projects\oo assess\SimpleLibrary - starter\SimpleLibrary - starter\SimpleLibrary\obj\Release\SimpleLibrary.pdb
